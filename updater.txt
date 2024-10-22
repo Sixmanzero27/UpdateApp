@@ -1,9 +1,9 @@
 {
   "fnmods_update": [
     {
- "version":"9.62",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "version":"9.63",
+ "title":"Update New Message",
+ "description":"มีการอัพเดทแพทช์ใหม่กรุณากดอัพเดทก่อนใช้งานคะ
 
 Base: 2.23 1.76
 
@@ -12,7 +12,7 @@ Base: 2.23 1.76
 Nuevo Systema de Actualización 
 
  Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+"download":"https://apigamessixman.online/update/new"
 }
   ]
 }
